@@ -1,0 +1,69 @@
+Prompt: Who is the current president of U.S:
+Key: A. Mbarick Traore
+Key: B. Barack Obama
+Key: C. Tim Rogers
+Key: D. Donald Trump
+Answer: D
+
+Prompt: What is the most populated country in the world:
+Key: A. China
+Key: B. India
+Key: C. United States
+Key: D. Nigeria
+Answer: A
+
+Prompt: Where is UMBC located: 
+Key: A. Washington DC
+Key: B. Baltimore
+Key: C. Frederick
+Key: D. Silver Spring
+Answer: B
+
+Prompt: What is the name Baltimore Football team:
+Key: A. Redskins
+Key: B. Ravens
+Key: C. Giants
+Key: D. Eagles
+Answer: B
+
+Prompt: What is the bigest animal in the world:
+Key: A. Elephant
+Key: B. Lion
+Key: C. Rhino
+Key: D. Blue whale
+Answer: D
+
+Prompt: What is the highest selling car in the wolrd:
+Key: A. Toyota
+Key: B. Honda
+Key: C. Nissan 
+Key: D. Mercedes
+Answer: A 
+
+Prompt: What is the most popular sport in the world?
+Key: A. Football
+Key: B. Tennis 
+Key: C. Soccer
+Key: D. Basketball
+Answer: C
+
+Prompt: Who is the president of UMBC:
+Key: A. Freeman A. Hrabowski
+Key: B. Bill Clinton
+Key: C. Carolyn Seamon
+Key: D. Dana Smith
+Answer: D
+
+Prompt: What is the most populated State in the USA;
+Key: A. Texas
+Key: B. California 
+Key: C. New York
+Key: D. Florida
+Answer: B
+
+Prompt: Prompt: Who was the 1st President of the United States;
+Key: A. George Washington
+Key: B. Thomas Jefferson
+Key: C. Abraham Lincoln
+Key: D. George W. Bush
+Answer: A
